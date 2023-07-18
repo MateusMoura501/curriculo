@@ -5,7 +5,7 @@ Senior Business/Data Analyst
 :iphone:   (61) 99606-8413 <br>
 :envelope:  mateusmoura501@gmail.com
 
-Sou um profissional com experiência no uso de dados com o objetivo de gerar insights sólidos para gerar soluções e comunicar resultados. Possuo grande interresse em Python para Data Science, estátistica e Modelagem de dados.
+Sou um profissional com experiência no uso de dados com o objetivo de construir insights sólidos para gerar soluções e comunicar resultados. Possuo grande interresse em Python para Data Science, Engenharia de dados, estátistica e Modelagem de dados.
 
 Sou Bacharel em Engenharia Civil e recentemente terminei uma MBA em Business Intelligence.
 
@@ -18,8 +18,11 @@ Concluído em 2018
 
 ## Experência Profissional
 
+* **Senior Business Analyst - Canal Indireto Brasil - BRF** 
+(2023 - Atual) <br>
+
 * **Senior Business Analyst - BRF** 
-(2022 -  Atual) <br>
+(2022 -  2023) <br>
 
   * Ultilização de dados para realização de análises e modelos estátisticos para gerar insigths sobre projetos, campanhas, estrátegias e novas iniciativas.
   * Acompanhamento e definição de planos de ação.
